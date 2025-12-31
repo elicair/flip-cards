@@ -1,5 +1,4 @@
 # flip-cards
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -118,12 +117,12 @@ color: #006064;
 <!-- Card 7 -->
 <div class="card">
 <div class="question">at peak production how many model A's were made per day.</div>
-<div class="answer"><p>,9000</p></div>
+<div class="answer"><p>9000</p></div>
 </div>
 <!-- Card 8 -->
 <div class="card">
 <div class="question">how much did  model a cost when new.</div>
-<div class="answer"><p>100°C (212°F) four to six hundred dollors.</p></div>
+<div class="answer"><p>four to six hundred dollors.</p></div>
 </div>
 </div>
 
